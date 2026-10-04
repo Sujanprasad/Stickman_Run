@@ -1,0 +1,7 @@
+{
+  "name": "Stickman: One More Move",
+  "description": "A minimalist modern 2D platformer game featuring physics-based stickman movement, responsive controls, and smooth platforming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
